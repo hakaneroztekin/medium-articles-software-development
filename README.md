@@ -6,3 +6,11 @@ I prepared these articles to learn about fancy technologies and to review softwa
 
 **Topics covered:** Properties of Java, Variable types, What are JVM, JRE and JDK?, Object Creation Stages, Constructor Types, Data Types, Access Modifiers, Passing By Value, Inheritance, Overloading, Overriding, Encapsulation, Abstraction, Interface, Abstract class, relation between Overriding, Upcasting, Overloading, Runtime Polymorphism and Interfaces, Association, Aggregation, Composition, I/O, Serialization & Deserialization, Exceptions, Inner Class, Java 8 Features: Functional Interface, Lambda Expressions, Default methods, Streams API, Optional, Collections, DateTime API, Singleton Design Pattern
 
+**Completion:** This article is around 100% completion.
+
+# [Technology Stack Overview](https://medium.com/@hakaneroztekin/tech-stack-overview-b7f4fe24cd83)
+**Benefit:** If you're a junior, you'll learn what these all about, if you're experienced you'll refresh your information
+
+**Topics covered:** Java 8 to Java 11 Changes, Hibernate, JPA, JSF, Maven, Spring Framework: Inversion of Control and Dependency Injection, Spring Boot, Spring MVC, REST, Docker, Monolithic vs SOA vs Microservices
+
+**Completion:** This article will be improved with new content. Upcoming topics are Netflix OSS (Eureka, Hystrix, Ribbon) & 12-factor APP, Kubernetes, Kafka, RabbitMQ, AWS, Elasticsearch, TDD, Redis and MongoDB.
